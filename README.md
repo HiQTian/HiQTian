@@ -1,7 +1,7 @@
 ![hello.jpg](https://insgallery.com/images/132fbd094f35bd367560dc9872b33539.png)
 
 
-[![](https://count.getloli.com/get/@LinkDFun)](https://count.getloli.com)
+[![](https://count.getloli.com/get/@HiQTian)](https://count.getloli.com)
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
